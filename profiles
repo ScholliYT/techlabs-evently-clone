@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Profile Creation</title>
+  </head>
+  <body>
+    <h1>Profile Creation</h1>
+    <form action="submit_profile.php" method="post">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <br><br>
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" required>
+      <br><br>
+      <label for="occupation">Occupation:</label>
+      <input type="text" id="occupation" name="occupation" required>
+      <br><br>
+      <label for="languages">Spoken Languages:</label>
+      <input type="text" id="languages" name="languages" required>
+      <br><br>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
