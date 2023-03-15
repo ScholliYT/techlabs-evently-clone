@@ -1,7 +1,7 @@
 :root {
     --bgcolor1: #FCFAFA;
     --bgcolor2: #000000;
-    --textcolor1: #21D19F;
+    --textcolor1: #4CAF50;
     --textcolor2: #45B69C;
     --color3: #7293A0;
 }
@@ -36,23 +36,26 @@ h3 {
     text-align: center;
 }
 
-ul {
+/* ul {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
 } 
+*/
 
-li {
+/* li {
     display: inline-block;
     padding: 0.5rem 2rem;
     border: solid;
     border-radius: 5px;
 }
+*/
 
 a {
     text-decoration: none;
     color: var(--textcolor1);
     font-weight: bold;
+    background-color: transparent;
 }
 
 a:hover {
@@ -83,5 +86,64 @@ img {
     height: 30px;
     border-radius: 8px;
     padding: 0 10px;
+    text-align: center;
+}
+
+.button_create{
+  display: inline-block;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 14px 30px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  text-decoration: none;
+}
+
+.button_create:hover {
+    background-color: black;
+  }
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+  }
+  
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.video-heading {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 3rem;
+    z-index: 1;
+    background-color: transparent;
+    text-align: center;
+  }
+  
+.video-links {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 3rem;
+    z-index: 1;
+    background-color: transparent;
     text-align: center;
 }

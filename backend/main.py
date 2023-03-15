@@ -4,6 +4,7 @@ import sys
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app.routers import api_router
 from config import settings
@@ -23,6 +24,9 @@ app = FastAPI(
 # Add API to app
 app.include_router(api_router)
 
+# Serve the static files
+app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
+app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
 
 # Setup event listeners
 @app.on_event("startup")
