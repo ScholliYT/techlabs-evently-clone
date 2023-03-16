@@ -63,6 +63,7 @@ a {
     color: var(--textcolor1);
     font-weight: bold;
     background-color: transparent;
+    transition-duration: 0.4s;
 }
 
 a:visited {
@@ -161,35 +162,12 @@ video {
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: black;
     font-size: 3rem;
     z-index: 1;
     background-color: transparent;
     text-align: center;
 }
 
-/* #create-form {
-    width: 50%;
-    margin: 1rem auto;
-    padding: 0.5rem 0;
-    display: flex;
-    align-items: center;
-    flex-flow: column;
-    border: solid black 4px;
-    gap: 2rem;
-}
-
-button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  font-size: 1.5em;
-  padding: 0.2em 0.6em;
-  cursor: pointer;
-  border-radius: 0.5em;
-} */
-
-/* Create-event form */
 #create-form {
     border: 1px solid #ccc;
     padding: 2rem;
