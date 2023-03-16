@@ -26,7 +26,7 @@ app.include_router(api_router)
 
 # Serve the static files
 app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
-app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
+# app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
 
 # Setup event listeners
 @app.on_event("startup")

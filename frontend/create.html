@@ -4,7 +4,8 @@
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-        <form action="/submit" method="post" enctype="multipart/form-data">
+        <h1>Create your own event!</h1>
+        <form action="/create" method="post" id="create-form">
             <div>
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -23,13 +24,13 @@
             </div>
             <div>
             <label for="image">Image:</label>
-            <input type="file" id="image" name="image" accept="image/*" required>
+            <input type="file" id="image" name="image" accept="image/*">
             </div>
             <div>
             <label for="link">Link:</label>
             <input type="url" id="link" name="link" required>
             </div>
-            <button type="submit">Submit</button>
+            <button type="submit">Create</button>
         </form>
     </body> 
 </html>
