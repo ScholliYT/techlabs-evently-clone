@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="styles.css">
+      <title>Evently</title>
+      <meta name="description" content="Connect yourself with others and go to events together!">
+    </head>
+    <body>
+      <header>
+        <nav>
+          <h1><a href="index.html" id="title">Evently</a></h1>
+          <form action="" method="post">
+            <input type="search" id="searchbar" placeholder="Not available yet">
+          </form>
+        </nav>
+        <div class="video-container">
+          <video src="./assets/videos/landingpage_vid.mp4" autoplay loop muted></video>
+          <h1 class="video-heading">Choose your next activity and get together!</h1>
+          <ul class="video-links">
+            <li><a href="#museums">Museums</a></li>
+            <li><a href="#swimming-pools">Swimming Pools</a></li>
+            <li><a href="#more">More</a></li>
+          </ul>
+          <h2><a href="create.html" class="button-create">... or create your own event</a></h2>
+        </div>
+        <hr>
+      </header>
+      <main>
+        <section id="museums">
+          <h3>Museums</h3>
+          <hr>
+          <div class="museum">
+            <img src="https://basis-datensysteme.de/museumluedo/bild2.jpg" alt="Heimatmuseum Lütgendortmund">
+            <div class="museum-info">
+              <h4>Heimatmuseum Lütgendortmund e.V.</h4>
+              <p>Address: Dellwiger Straße 130, 70785 Dortmund</p>
+              <a href="http://www.museum-luedo.de" target="_blank">More Info</a>
+            </div>
+          </div>
+          <div class="museum">
+            <img src="https://www.industriedenkmal-stiftung.de/uploads/pics/Kokerei_Hansa-Ansicht_Hannappel-1.jpg" alt="Kokerei Hansa">
+            <div class="museum-info">
+            <h4>Kokerei Hansa</h4>
+            <p>Address: Emscherallee 11, 76924 Dortmund</p>
+            <a href="https://www.industriedenkmal-stiftung.de/denkmale/kokerei-hansa" target="_blank">More Info</a>
+          </div>
+        </section>
+        <section id="swimming-pools">
+          <h3>Swimming pools</h3>
+          <hr>
+          <div class="swimming-pool">
+            <img src="https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/fotostrecken/impressionen_des_suedbads/Suedbad_4.jpeg" alt="Heimatmuseum Lütgendortmund">
+            <div class="swimming-pool-info">
+              <h4>Südbad - Innenstadt</h4>
+              <p>Address: Ruhrallee 30, 72636 Dortmund</p>
+              <a href="http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/suedbad/index.html" target="_blank">More Info</a>
+            </div>
+          </div>
+          <div class="swimming-pool">
+            <img src="https://lh3.googleusercontent.com/p/AF1QipN_TsjKzEKQ3Wzv92DfQ14MXPtN4y-7mJIOA4sR=s680-w680-h510" alt="Kokerei Hansa">
+            <div class="swimming-pool-info">
+            <h4>Solebad Revierpark Wischlingen</h4>
+            <p>Address: Höfkerstraße 12, 76197 Dortmund</p>
+            <a href="https://www.wischlingen.de/bad-sauna/preise-und-zeiten/" target="_blank">More Info</a>
+          </div>
+        </section>
+      </main>
+          <script type="text/javascript">
+            const api = "http://127.0.0.1:8000/api/users/?skip=0&limit=100"  // either 3000 for nodejs or 8000 for fastapi
+    
+            var myHeaders = new Headers();
+            myHeaders.append("accept", "application/json");
+    
+            var requestOptions = {
+                method: 'GET',
+                headers: myHeaders,
+                redirect: 'follow'
+            };
+    
+            function get_data() {
+                // REST API REQUEST
+                fetch(api, requestOptions)
+                    .then(response => response.json())
+                    .then(result => {
+                    console.log(result);
+                    const resultElement = document.getElementById("swimming-pools");
+                    result.forEach(obj => {
+                        const img = document.createElement("img");
+                        img.src = obj.image_url;  
+                        const h4 = document.createElement("h4");
+                        h4.textContent = obj.name;
+                        const p = document.createElement("p");
+                        p.textContent = obj.address;
+                        const a = document.createElement("a");
+                        a.textContent = "More Info";
+                        a.href = obj.link;
+                        resultElement.appendChild(img);
+                        resultElement.appendChild(h4);
+                        resultElement.appendChild(p);
+                        resultElement.appendChild(a);
+                    });
+                    })
+                    .catch(error => console.log('error', error));
+                }
+            get_data();
+        </script>
+    </body>
+</html>

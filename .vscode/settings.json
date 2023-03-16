@@ -1,8 +1,8 @@
 {
     "python.autoComplete.extraPaths": [
-        "${workspaceFolder}/backend"
+        "C:/Users/maxwe/Documents/EventlyTechLabs/evently/backend"
     ],
     "python.analysis.extraPaths": [
-        "${workspaceFolder}/backend"
+        "C:/Users/maxwe/Documents/EventlyTechLabs/evently/backend"
     ]
 }

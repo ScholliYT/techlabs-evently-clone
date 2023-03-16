@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Create your own event!</h1>
+        <form action="/create" method="post" id="create-form">
+            <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+            <label for="category">Category:</label>
+            <input list="categories" id="category" name="category">
+            <datalist id="categories">
+                <option value="Museums">
+                <option value="Swimming Pools">
+              </datalist>
+            </div>
+            <div>
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address" required>
+            </div>
+            <div>
+            <label for="image">Image:</label>
+            <input type="file" id="image" name="image" accept="image/*">
+            </div>
+            <div>
+            <label for="link">Link:</label>
+            <input type="url" id="link" name="link" required>
+            </div>
+            <button type="submit">Create</button>
+        </form>
+    </body> 
+</html>
