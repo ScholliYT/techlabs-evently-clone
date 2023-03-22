@@ -1,9 +1,14 @@
+import uvicorn
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from app import event, database, models, schemas, crud
 import csv
 
 app = FastAPI()
+
+from config import settings
+
 
 # Create the database tables
 models.Base.metadata.create_all(bind=database.engine)
@@ -21,8 +26,29 @@ def load_csv_data():
 # Load the data from the CSV file and store it in the database when the application starts
 load_csv_data()
 
-app.include_router(event.router)
+app.include_router(event.router, prefix="/event")
 
 # Serve the static files
 app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
 # app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
+
+# Setup cors - to allow cross origin requests (e.g. from different hostnames)
+origins = ["*"]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+if __name__ == "__main__":
+    uvicorn.run(
+        app="main:app",
+        host=settings.HOST,
+        port=settings.PORT,
+        reload=settings.RELOAD,
+        log_level=settings.DEBUG,
+        workers=settings.WORKERS,
+    )
