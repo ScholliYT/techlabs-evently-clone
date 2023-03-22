@@ -1,45 +1,36 @@
-import logging
-import sys
-
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
+from app import event, database, models, schemas, crud
+import csv
 
-from app.routers import api_router
+app = FastAPI()
+
 from config import settings
 
-# Configure logging
-logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
-logger = logging.getLogger(__name__)
 
-app = FastAPI(
-    title="Example REST API",
-    description="This is an example application",
-    openapi_url="/api/v1/openapi.json",
-    docs_url="/api/docs",
-    redoc_url="/api/redoc",
-)
+# Create the database tables
+models.Base.metadata.create_all(bind=database.engine)
 
-# Add API to app
-app.include_router(api_router)
+# Load the data from the CSV file and store it in the database
+def load_csv_data():
+    with open("/Users/laura/Course_TechLabs/evently_2/evently/better_data_file.csv") as f:
+        reader = csv.reader(f)
+        next(reader)  # skip header row
+        events = [schemas.EventCreate(objektart=row[1], name=row[2], link=row[3], address=row[4]) for row in reader]
+        with database.SessionLocal() as db:
+            for event in events:
+                crud.create_event(db=db, event=event)
+
+# Load the data from the CSV file and store it in the database when the application starts
+load_csv_data()
+
+app.include_router(event.router, prefix="/event")
 
 # Serve the static files
 app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
 # app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
-
-# Setup event listeners
-@app.on_event("startup")
-async def on_startup():
-    """Startup handler"""
-    logger.info("Starting server")
-
-
-@app.on_event("shutdown")
-async def on_shutdown():
-    """Shutdown handler"""
-    logger.info("Shutting down server")
-
 
 # Setup cors - to allow cross origin requests (e.g. from different hostnames)
 origins = ["*"]
