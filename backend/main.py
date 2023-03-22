@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 from app import event, database, models, schemas, crud
 import csv
 
@@ -21,3 +22,7 @@ def load_csv_data():
 load_csv_data()
 
 app.include_router(event.router)
+
+# Serve the static files
+app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
+# app.mount("/create", StaticFiles(directory="../frontend", html=True), name="create")
