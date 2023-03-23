@@ -21,7 +21,7 @@
         </nav>
         
         <div class="video-container">
-          <video src="./assets/videos/landingpage_vid.mp4" loop muted loading="lazy"></video>
+          <video src="./assets/videos/landingpage_vid.mp4" autoplay loop muted loading="lazy"></video>
           <h1 class="video-heading">Choose your next activity and get together!</h1>
           <ul class="video-links">
             <li><a href="#museums">Museums</a></li>
@@ -101,7 +101,7 @@
         </section>
       </main>
           <script type="text/javascript">
-            const api = "http://127.0.0.1:8000/api/users/?skip=0&limit=100"  // either 3000 for nodejs or 8000 for fastapi
+            const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for nodejs or 8000 for fastapi
     
             var myHeaders = new Headers();
             myHeaders.append("accept", "application/json");
@@ -113,6 +113,52 @@
             };
     
             function get_data() {
+              fetch('/event/')
+              .then(response => response.json())
+              .then(data => {
+                data.forEach(function(item) {
+                if (item.objektart === "MuseumSonstiges") {
+                    let card = document.createElement('div');
+                    card.classList.add('card');
+
+                    /*let cardImage = document.createElement('div');
+                    cardImage.classList.add('card-image');
+                    let img = document.createElement('img');
+                    img.src = item.image_url;
+                    cardImage.appendChild(img);
+                    card.appendChild(cardImage);*/
+
+                    let cardHeader = document.createElement('div');
+                    cardHeader.classList.add('card-header');
+                    let h3 = document.createElement('h3');
+                    h3.textContent = item.name;
+                    cardHeader.appendChild(h3);
+                    card.appendChild(cardHeader);
+
+                    let cardBody = document.createElement('div');
+                    cardBody.classList.add('card-body');
+                    let p = document.createElement('p');
+                    p.textContent = "Address: " + item.address;
+                    cardBody.appendChild(p);
+                    card.appendChild(cardBody);
+
+                    let cardFooter = document.createElement('div');
+                    cardFooter.classList.add('card-footer');
+                    let a = document.createElement('a');
+                    a.href = item.link;
+                    let button = document.createElement('button');
+                    button.textContent = "More Info";
+                    a.appendChild(button);
+                    cardFooter.appendChild(a);
+                    card.appendChild(cardFooter);
+                    console.log(document.querySelector('#museum .card-grid'));
+                    document.querySelector('#museums .card-grid').appendChild(card);
+                }
+            });
+              });
+            }
+            get_data();
+            /* function get_data() {
                 // REST API REQUEST
                 fetch(api, requestOptions)
                     .then(response => response.json())
@@ -137,7 +183,7 @@
                     })
                     .catch(error => console.log('error', error));
                 }
-            get_data();
+            get_data(); */
         </script>
     </body>
 </html>
