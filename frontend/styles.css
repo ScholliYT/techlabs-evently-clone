@@ -166,10 +166,12 @@ p {
     border-radius: 0.25rem;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
     overflow: hidden;
+    min-height: 350px;
 }
 
 .card-header {
     font-size: 1.5rem;
+    margin: -1rem 0;
 }
 
 .card-image {
@@ -182,16 +184,17 @@ p {
     width: 100%;
     aspect-ratio: 16 / 9;
     object-fit: cover;
-    max-height: 20rem;
+    max-height: 10rem;
     object-position: center;
 }
 
 .card-body{
     padding: 0 1rem;
+    margin: -1rem 0;
 }
 
 .card-footer {
-    padding: 1rem;
+    padding: 0 1rem;
 }
 
 .swimming-pool {
@@ -221,10 +224,7 @@ form label {
     font-size: 1.5rem;
 }
   
-form input[type="text"],
-form input[list],
-form input[type="url"],
-form input[type="file"] {
+form input {
     width: 100%;
     padding: 0.4rem;
     margin-bottom: 0.5rem;
@@ -244,6 +244,10 @@ form button, .card-footer button {
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out;
+}
+
+.card-footer button {
+    padding: 0.5rem 1rem;
 }
   
 form button[type="submit"]:hover, .card-footer button:hover {
