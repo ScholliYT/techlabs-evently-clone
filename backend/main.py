@@ -15,13 +15,26 @@ models.Base.metadata.create_all(bind=database.engine)
 
 # Load the data from the CSV file and store it in the database
 def load_csv_data():
-    with open("/Users/laura/Course_TechLabs/evently_2/evently/better_data_file.csv") as f:
+    existing_event_names = []
+    with open("/Users/laura/Course_TechLabs/evently_3/better_data_file2.csv", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
         reader = csv.reader(f)
         next(reader)  # skip header row
         events = [schemas.EventCreate(objektart=row[1], name=row[2], link=row[3], address=row[4]) for row in reader]
         with database.SessionLocal() as db:
+            existing_events = set(db.query(models.Event.name, models.Event.address).all())
+            new_events = []
+            duplicate_events = []
             for event in events:
+                # check if event already exists in database
+                if (event.name, event.address) in existing_events:
+                    duplicate_events.append(event)
+                else:
+                    new_events.append(event)
+            # create new events
+            for event in new_events:
                 crud.create_event(db=db, event=event)
+            
 
 # Load the data from the CSV file and store it in the database when the application starts
 load_csv_data()

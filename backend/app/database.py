@@ -7,7 +7,7 @@ from . import models, schemas
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///./events.db"
 
-engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})
+engine = create_engine(SQLALCHEMY_DATABASE_URL, encoding="utf-8-sig", connect_args={"check_same_thread": False})
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
