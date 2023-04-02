@@ -1,7 +1,4 @@
-# WT22/23-Techie-Project-Template
-This project serves as template for the techie projects in winterterm 2022/23
-
-## TODO for the Techies
+ ## TODO for the Techies
 Please **fill out the following information below**, as soon as possible. It is **required** to have this file completely filled out and up to date at the end of the project phase.
 You can of course use this file to manage your project, e.g. as a place to keep your todos and to plan your features. Also, feel free to edit this readme in any kind of way you like, but the required base layout and information should be consistent throughout all techie projects.
 
@@ -15,9 +12,9 @@ By the end you should have filled out the following:
 5. **Authors:** Please add all of you and link your respective GitHub profile and other information if you want to. This part if completely up to you.
 6. If you are done filling out the information below, please **delete this TODO Section** to keep your project readme clean for other people to get to know more about your project.
 
-# Project Title
+# Evently - Find events, sign up, meet new people!
 
-Description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+There are a ton of things to do in the Dortmund area… and a lot of people to do them with! Evently offers users an online platform on which to meet other users with shared interests and bond in real life by attending fun events in the Dortmund area. The website therefore facilitates finding and participating in social activities - something some people struggle with, because they are new in town or because prolongued Covid-quarantines have impaired their social skills.
 
 
 ## How to Setup and Run
@@ -54,8 +51,8 @@ function App() {
   
 ## Authors
 
-- [@bob](https://www.github.com/bob)
-- [@alice](https://www.github.com/alice)
+- [@Leonardo-Bia](https://github.com/Leonardo-Bia)
+- 
 
   
 
