@@ -1,8 +1,8 @@
 {
     "python.autoComplete.extraPaths": [
-        "C:/Users/maxwe/Documents/EventlyTechLabs/evently/backend"
+        "/Users/laura/Course_TechLabs/evently_3/backend"
     ],
     "python.analysis.extraPaths": [
-        "C:/Users/maxwe/Documents/EventlyTechLabs/evently/backend"
+        "/Users/laura/Course_TechLabs/evently_3/backend"
     ]
 }

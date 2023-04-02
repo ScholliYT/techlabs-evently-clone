@@ -36,3 +36,5 @@ def delete_event(db: Session, event_id: int):
     return db_event
 
 
+def get_event_by_name_and_address(db: Session, name: str, address: str):
+    return db.query(models.Event).filter(models.Event.name == name, models.Event.address == address).first()
