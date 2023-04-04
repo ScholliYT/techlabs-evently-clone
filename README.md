@@ -19,38 +19,53 @@ There are a ton of things to do in the Dortmund area… and a lot of people to d
 
 ## How to Setup and Run
 
-In order to setup the project, please proceed as follows:
+In order to setup and run the project, please proceed as follows:
 
-```bash
-  npm install my-project
+```python3 -m venv venv && source venv/bin/activate
+
+pip3 install -r requirements.txt
+pip3 install -r requirements-dev.txt
+
+start python application
+
+either via VSCode or via `python3 main.py`
+
+Open http://127.0.0.1:8000
+and open http://127.0.0.1:8000/api/docs
+
 ```
 
-After successful installation use the following command to run the project:
-
-```bash
-  npm run
-```
 ## Examples
 
 You can see a brief overview of how to use the main functionality below
 
-```javascript
-import Component from 'my-project'
+```
+def load_csv_data() in app/main.py:
+- loads data from csv file into database
 
-function App() {
-  return <Component />
-}
+via http://127.0.0.1:8000/api/docs
+GET event (reading all events)
+POST event (manually adding events to database)
+GET event by id
+PUT event (update event information)
+DELETE event
+
+
 ```
 
   
 ## Roadmap
 
-- Additional browser support
-- Add more integrations
+- create event button that fully works
+- adding comment/chat function
+- adding user profiles
+- inlcuding photos of all locations
+- ...
 
   
 ## Authors
 
+- [@laurastaedtler](https://github.com/laurastaedtler)
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
 - 
 
