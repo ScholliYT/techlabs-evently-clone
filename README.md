@@ -28,7 +28,7 @@ pip3 install -r requirements.txt
 
 start python application
 
-either via VSCode or via `python3 main.py`
+either via VSCode (Run & Debug) or via `python3 main.py`
 
 Open http://127.0.0.1:8000
 and open http://127.0.0.1:8000/api/docs
@@ -75,7 +75,7 @@ DELETE event
 
 - [@laurastaedtler](https://github.com/laurastaedtler)
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
-- 
+- [@maxlearnscode](https://github.com/maxlearnscode)
 
   
 
