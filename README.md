@@ -21,14 +21,14 @@ There are a ton of things to do in the Dortmund area… and a lot of people to d
 
 In order to setup and run the project, please proceed as follows:
 
-```python3 -m venv venv && source venv/bin/activate
+```
+python3 -m venv venv && source venv/bin/activate
 
 pip3 install -r requirements.txt
-pip3 install -r requirements-dev.txt
 
 start python application
 
-either via VSCode or via `python3 main.py`
+either via VSCode (Run & Debug) or via `python3 main.py`
 
 Open http://127.0.0.1:8000
 and open http://127.0.0.1:8000/api/docs
@@ -54,9 +54,17 @@ DELETE event
 ```
 
   
-## Roadmap
+## Roadmap and future goals
 
-- create event button that fully works
+- searching data
+- manipulating and cleaning data file
+- building RestAPI
+- GET/POST/PUT/DELETE functions
+- building frontend
+- connecting backend and frontend
+- create event button 
+
+
 - adding comment/chat function
 - adding user profiles
 - inlcuding photos of all locations
@@ -67,7 +75,10 @@ DELETE event
 
 - [@laurastaedtler](https://github.com/laurastaedtler)
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
-- 
+- [@maxlearnscode](https://github.com/maxlearnscode)
+- [@Jannik-V](https://github.com/Jannik-V)
+- [@GitHubMagnus](https://github.com/GitHubMagnus)
+- [@DerEmmanuel2004](https://github.com/DerEmmanuel2004)
 
   
 
