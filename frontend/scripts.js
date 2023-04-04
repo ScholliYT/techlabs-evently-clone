@@ -65,6 +65,7 @@ const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for 
                           break;
                         case "Eisbahn":
                         case "MountainbikeArena":
+                        case "SportSonstige":
                           sectionId = "#sports-other";
                           break;  
                         default:
@@ -76,13 +77,22 @@ const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for 
                         let card = document.createElement('div');
                         card.classList.add('card');
               
-                        let cardImage = document.createElement('div');
+                        /* let cardImage = document.createElement('div');
                         cardImage.classList.add('card-image');
                         let img = document.createElement('img');
                         img.src = item.image_url;
                         img.alt = "Photo " + item.name;
                         cardImage.appendChild(img);
+                        card.appendChild(cardImage); */
+
+                        let cardImage = document.createElement('div');
+                        cardImage.classList.add('card-image');
+                        let img = document.createElement('img');
+                        img.src = item.image_url ? item.image_url : 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png';
+                        img.alt = "Photo " + item.name;
+                        cardImage.appendChild(img);
                         card.appendChild(cardImage);
+
               
                         let cardHeader = document.createElement('div');
                         cardHeader.classList.add('card-header');

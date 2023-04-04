@@ -168,7 +168,7 @@ h2 {
     transition: background-color 0.4s ease-in-out;
     text-decoration: none;
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -277,7 +277,7 @@ form label {
     font-size: 1.5rem;
 }
   
-form input {
+form input, form select#objektart {
     width: 100%;
     padding: 0.4rem;
     margin-bottom: 0.5rem;
@@ -311,3 +311,16 @@ form button[type="submit"]:hover, .card-footer button:hover {
     background-color: var(--textcolor2);
 }
   
+.success-message {
+    background-color: green;
+    color: white;
+    padding: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: display 1s ease-in-out;
+    display: none;
+  }
+  
+.success-message.show {
+    display: block;
+}
