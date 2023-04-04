@@ -21,10 +21,10 @@ There are a ton of things to do in the Dortmund area… and a lot of people to d
 
 In order to setup and run the project, please proceed as follows:
 
-```python3 -m venv venv && source venv/bin/activate
+```
+python3 -m venv venv && source venv/bin/activate
 
 pip3 install -r requirements.txt
-pip3 install -r requirements-dev.txt
 
 start python application
 
