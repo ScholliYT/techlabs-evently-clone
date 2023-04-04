@@ -77,6 +77,8 @@ DELETE event
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
 - [@maxlearnscode](https://github.com/maxlearnscode)
 - [@Jannik-V](https://github.com/Jannik-V)
+- [@GitHubMagnus](https://github.com/GitHubMagnus)
+- [@DerEmmanuel2004](https://github.com/DerEmmanuel2004)
 
   
 
