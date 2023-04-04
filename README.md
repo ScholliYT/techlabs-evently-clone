@@ -39,7 +39,8 @@ and open http://127.0.0.1:8000/api/docs
 
 You can see a brief overview of how to use the main functionality below
 
-```def load_csv_data() in app/main.py:
+```
+def load_csv_data() in app/main.py:
 - loads data from csv file into database
 
 via http://127.0.0.1:8000/api/docs
@@ -64,7 +65,7 @@ DELETE event
   
 ## Authors
 
-- [@laurastaedtler](https://github.com/laurastaedtler
+- [@laurastaedtler](https://github.com/laurastaedtler)
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
 - 
 
