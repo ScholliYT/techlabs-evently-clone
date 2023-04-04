@@ -54,9 +54,17 @@ DELETE event
 ```
 
   
-## Roadmap
+## Roadmap and future goals
 
-- create event button that fully works
+- searching data
+- manipulating and cleaning data file
+- building RestAPI
+- GET/POST/PUT/DELETE functions
+- building frontend
+- connecting backend and frontend
+- create event button 
+
+
 - adding comment/chat function
 - adding user profiles
 - inlcuding photos of all locations
