@@ -65,8 +65,11 @@ const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for 
                           break;
                         case "Eisbahn":
                         case "MountainbikeArena":
-                        case "SportSonstige":
+                        case "SportSonstiges":
                           sectionId = "#sports-other";
+                          break;  
+                        case "Sonstiges":
+                          sectionId = "#other-events";
                           break;  
                         default:
                           sectionId = null;

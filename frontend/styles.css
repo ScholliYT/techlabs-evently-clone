@@ -155,6 +155,7 @@ a:hover {
 h2 {
     text-align: center;
     font-size: 2.5rem;
+    color: var(--textcolor1)
 }
 
 .button{
@@ -186,6 +187,7 @@ h3 {
     text-align: center;
     font-weight: bold;
     font-size: 1.5rem;
+    color: var(--textcolor2)
 }
 
 h4 {
