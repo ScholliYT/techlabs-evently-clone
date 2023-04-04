@@ -76,6 +76,7 @@ DELETE event
 - [@laurastaedtler](https://github.com/laurastaedtler)
 - [@Leonardo-Bia](https://github.com/Leonardo-Bia)
 - [@maxlearnscode](https://github.com/maxlearnscode)
+- [@Jannik-V](https://github.com/Jannik-V)
 
   
 
