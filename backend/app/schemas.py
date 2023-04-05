@@ -7,6 +7,7 @@ class EventBase(BaseModel):
     name: str
     link: str
     address: str
+    image_url: Optional[str] = None  
 
 
 class EventCreate(EventBase):

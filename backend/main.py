@@ -4,11 +4,16 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from app import event, database, models, schemas, crud
 import csv
+import pandas as pd
 
 app = FastAPI()
 
 from config import settings
 
+#Adding image_urls to csv
+df = pd.read_csv("/Users/laura/Course_TechLabs/evently_3/better_data_file2.csv", encoding="utf-8-sig") #you'll have to include your own path
+df["image_url"] = "https://basis-datensysteme.de/museumluedo/bild2.jpg"
+df.to_csv("/Users/laura/Course_TechLabs/evently_3/better_data_file2.csv", index=False, encoding="utf-8-sig") #same here
 
 # Create the database tables
 models.Base.metadata.create_all(bind=database.engine)
@@ -20,7 +25,7 @@ def load_csv_data():
         reader = csv.reader(f)
         reader = csv.reader(f)
         next(reader)  # skip header row
-        events = [schemas.EventCreate(objektart=row[1], name=row[2], link=row[3], address=row[4]) for row in reader]
+        events = [schemas.EventCreate(objektart=row[1], name=row[2], link=row[3], address=row[4], image_url=row[5]) for row in reader]
         with database.SessionLocal() as db:
             existing_events = set(db.query(models.Event.name, models.Event.address).all())
             new_events = []
