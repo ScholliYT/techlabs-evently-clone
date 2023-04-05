@@ -13,7 +13,6 @@ body {
     font-family: sans-serif;
     background-color: var(--bgcolor1);
     font-size: 62.5%;
-    margin-bottom: 1rem;
 }
 
 main {
@@ -250,6 +249,7 @@ p {
 
 .card-grid .card:first-child {
     display: none;
+    -webkit-display: none;
   }  
 
 .swimming-pool {
@@ -325,4 +325,12 @@ form button[type="submit"]:hover, .card-footer button:hover {
   
 .success-message.show {
     display: block;
+}
+
+footer {
+  background-color: #444444;
+  color: #ffffff;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
 }
