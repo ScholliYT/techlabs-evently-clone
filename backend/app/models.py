@@ -13,3 +13,4 @@ class Event(Base):
     name = Column(String)
     link = Column(String)
     address = Column(String)
+    image_url = Column(String, nullable=True)
