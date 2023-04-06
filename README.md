@@ -46,11 +46,11 @@ def load_csv_data() in app/main.py:
 - loads data from csv file into database
 
 via http://127.0.0.1:8000/api/docs
-GET event (reading all events)
-POST event (manually adding events to database)
-GET event by id
-PUT event (update event information)
-DELETE event
+- GET event (reading all events)
+- POST event (manually adding events to database)
+- GET event by id
+- PUT event (update event information)
+- DELETE event
 
 Frontend:
 
@@ -63,6 +63,7 @@ Frontend:
   
 ## Roadmap and future goals
 
+```
 What we did so far:
 - searching data
 - manipulating and cleaning data file
@@ -82,6 +83,7 @@ What we would do next:
 - including other cities
 - ...
 
+```
   
 ## Authors
 
