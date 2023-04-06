@@ -1,223 +1,213 @@
-﻿Unnamed: 0,Objektart,Name,Link,Address,image_url
-0,Heimatkundemuseum,Heimatmuseum Lütgendortmund e.V.,http://www.museum-luedo.de,"Dellwiger Straße 130, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-1,MuseumSonstiges,Kokerei Hansa,http://www.industriedenkmal-stiftung.de/docs/472991885334_de.php,"Emscherallee 11, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-2,MuseumSonstiges,Hoesch-Museum,https://www.dortmund.de/de/freizeit_und_kultur/museen/hoesch_museum/start_hoesch/index.html,"Eberhardstraße 12, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-3,Heimatkundemuseum,Altes Hafenamt,http://www.dortmunder-hafen.de/freizeit/das-alte-hafenamt/,"Sunderweg 130, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-4,MuseumSonstiges,Nahverkehrsmuseum,http://bahnhof-mooskamp.de/,"Mooskamp 23, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-5,MuseumSonstiges,mondo mio! -Kindermuseum-,http://www.mondomio.de/,"Florianstraße 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-6,MuseumSonstiges,Fußballmuseum -Borusseum-,http://www.bvb.de/Der-BVB/Borusseum/News,"Strobelallee 50, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-7,MuseumSonstiges,ehem. Zeche Adolf von Hansemann,http://www.route-industriekultur.ruhr/themenrouten/06-dortmund-dreiklang-kohle-stahl-bier/zeche-adolf-von-hansemann.html,"Barbarastraße 7, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-8,MuseumSonstiges,Museum Adlerturm,https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_adlerturm/start_adlerturm/index.html,"Günter-Samtlebe-Platz 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-9,MuseumSonstiges,Westfälisches Schulmuseum,https://www.dortmund.de/de/freizeit_und_kultur/museen/westfaelisches_schulmuseum/startseite_schulmuseum/,"An der Wasserburg 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-10,Kunstmuseum,Museum für Kunst und Kulturgeschichte,https://www.dortmund.de/de/freizeit_und_kultur/museen/mkk/start_mkk/index.html,"Hansastraße 3, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-11,Technikmuseum,LWL-Industriemuseum/ Westf. Landesmuseum für Industriekultur (Zeche Zollern II/IV),http://www.lwl.org/industriemuseum/,"Grubenweg 5, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-12,MuseumSonstiges,Deutsches Fußballmuseum,https://www.fussballmuseum.de/,"Platz der Deutschen Einheit 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-13,Technikmuseum,Tridelta Magnetmuseum,http://www.tridelta.de/unternehmensgruppe-magnetmuseum-de.html,"Ostkirchstraße 177, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-14,MuseumSonstiges,Brauerei-Museum,https://www.dortmund.de/de/freizeit_und_kultur/museen/brauerei_museum/start_brauereim/index.html,"Steigerstraße 16, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-15,MuseumSonstiges,Museum Ostwall im U,https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_ostwall/start_museum_ostwall/index.html,"Leonie-Reygers-Terrasse 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-16,Technikmuseum,Automobil-Museum,http://www.oldiemuseum.de/cms/home.php?coid=12,"Brandisstraße 50, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-17,MuseumSonstiges,Deutsche Arbeitsschutzausstellung (DASA),https://www.dasa-dortmund.de/startseite/,"Friedrich-Henkel-Weg 1-25, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-18,Technikmuseum,Binarium,https://binarium.de/,"Hülshof 28, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-19,MuseumSonstiges,Hardware MedienKunstVerein (HMKV),http://www.hmkv.de/,"Leonie-Reygers-Terrasse 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-20,MuseumSonstiges,Ausbüttels Apothekenmuseum,https://www.apotheken-museum.de/home.htm,"Wißstraße 11, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-21,MuseumSonstiges,Historisches Sudhaus,,"Steigerstraße 16, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-22,MuseumSonstiges,eins eins null Polizeiausstellung,,"Markgrafenstraße 102, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-23,Kunstmuseum,Künstlerhaus Dortmund,http://www.kh-do.de/de/index.html,"Sunderweg 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-24,MuseumSonstiges,Industrielack-Museum,http://industrielack-museum.de/,"Drehbrückenstraße 13, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-25,MuseumSonstiges,Mahn- und Gedenkstätte Steinwache,http://www.ns-gedenkstaetten.de/nrw/dortmund/besucherinformationen.html,"Steinstraße 50, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-26,MuseumSonstiges,Bergbaumuseum BUV-Kleinzeche Max Rehfeld e.V.,http://www.buv-kleinzeche.de/,"Barbarastraße 7, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-27,MuseumSonstiges,Heimatmuseum Hörde,http://www.heimatverein-hoerde.de/das-museum-neu.html,"Hörder Burgstraße 18, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-28,Naturkundemuseum,Museum für Naturkunde,https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_fuer_naturkunde/start_naturkunde/,"Münsterstraße 271, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-29,Besucherbergwerk,Besucherbergwerk Graf Wittekind,http://www.bergbauhistorie.ruhr/,,https://basis-datensysteme.de/museumluedo/bild2.jpg
-0,Freilichtbuehne,Naturbühne Hohensyburg,https://www.naturbuehne.de/,"Syburger Dorfstraße 60, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-1,Theater,Theater Olpketal,http://www.theater-olpketal.de/home/kategorie/spielplan.html,"Olpketalstraße 90, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-2,Puppentheater,Nostalgisches Puppentheater im Westfalenpark,http://www.nostalgisches-puppentheater.de,,https://basis-datensysteme.de/museumluedo/bild2.jpg
-3,Theater,Hansa Theater Hörde,http://www.hansa-theater-hoerde.de/,"Eckardtstraße 4a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-4,KultureinrichtungSonstiges,Kulturhaus Neuasseln e.V.,,"Buddenacker 9, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-5,KultureinrichtungSonstiges,Alte Schmiede Huckarde,http://www.ihv2000.de,"Hülshof 32, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-6,KonzertsaalHalle,Konzerthaus Dortmund,https://www.konzerthaus-dortmund.de/de/,"Brückstraße 21, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-7,Theater,Cabaret Queue,http://www.cabaretqueue.de/,"Hermannstraße 74, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-8,Theater,Märchenbühne im Wasserschloss Haus Rodenberg,http://www.die-maerchenbuehne.de/,"Rodenbergstraße 36, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-9,Veranstaltungshalle,Warsteiner Music Hall,,"Phoenixplatz 4, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-10,Theater,Theater Dortmund,https://www.theaterdo.de/startseite/,"Theaterkarree 1-3, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-11,KultureinrichtungSonstiges,Langer August e.V.,http://www.langer-august.de/was.html,"Braunschweiger Straße 22, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-12,Spielbank,Casino Hohensyburg,,"Hohensyburgstraße 200, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-13,Galerie,Torhaus Rombergpark Städtische Kunstgalerie,http://www.dortmund.de/de/freizeit_und_kultur/kulturbuero/ausstellungen_kb/torhausrombergpark/index.html,"Am Rombergpark 65, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-14,Theater,Theater Dortmund,https://www.theaterdo.de/startseite/,"Theaterkarree 1-3, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-15,KultureinrichtungSonstiges,Harenberg City-Center,,"Königswall 21, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-16,Kindertheater,Theater Dortmund,https://www.theaterdo.de/startseite/,"Sckellstraße 5-7, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-17,Opernhaus,Theater Dortmund,https://www.theaterdo.de/startseite/,"Platz der alten Synagoge 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-18,Theater,Theater im Depot,http://depotdortmund.de/,"Immermannstraße 29, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-19,Veranstaltungshalle,Reinoldinum,https://www.ev-kirche-dortmund.de/start.html,"Schwanenwall 34, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-20,KultureinrichtungSonstiges,Kulturort DEPOT,http://www.depotdortmund.de/,"Immermannstraße  29, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-21,Veranstaltungshalle,Werksaal der Dortmunder Stadtwerke AG,,"Deggingstraße 40, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-22,KultureinrichtungSonstiges,domicil,http://www.domicil-dortmund.de,"Hansastraße 7-11, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-23,TheaterMusikSonstiges,Pädagogisches Zentrum Hombruch,,"Am Hombruchsfeld 55A, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-24,Veranstaltungshalle,Berswordthalle,,"Kleppingstraße 37, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-25,KultureinrichtungSonstiges,Wichern,http://www.wichern.net/,"Stollenstraße 36, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-26,KultureinrichtungSonstiges,Stadtteilzentrum Adlerstrasse e.V.,,"Adlerstraße 81, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-27,Theater,Theater Fletch Bizzel,https://www.fletch-bizzel.de/,"Humboldtstraße 45, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-28,Veranstaltungshalle,Westfalenhallen Dortmund Verwaltungsgebäude,,"Strobelallee  45, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-29,Veranstaltungshalle,Westfalenhallen 3B-8,,"Rheinlanddamm  200, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-30,Veranstaltungshalle,Westfalenhalle 1-3,,"Rheinlanddamm  200, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-31,KultureinrichtungSonstiges,Kulturzentrum balou e.V.,https://www.balou-dortmund.de/,"Oberdorfstraße 23, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-32,KultureinrichtungSonstiges,Dortmunder U - Zentrum für Kunst und Kreativität,http://www.dortmunder-u.de/,"Leonie-Reygers-Terrasse 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-33,KultureinrichtungSonstiges,Musik und Kulturzentrum MUK,https://www.muk-do.de/,"Güntherstraße 65, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-34,KultureinrichtungSonstiges,Freizeitzentrum West (FZW),https://www.fzw.de/,"Ritterstraße 20, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-35,KultureinrichtungSonstiges,WDR Studio Dortmund,,"Mommsenweg 5, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-36,Theater,Roto Theater Dortmund,http://www.rototheater.de,"Gneisenaustraße 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-0,Hallenbad,Südbad - Innenstadt,http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/suedbad/index.html,"Ruhrallee 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-1,Hallenbad,Westbad - Westl. Innenstadt,http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/westbad/index.html,"Kortental 15, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-2,Hallenbad,Nordbad - Nördl. Innenstadt,http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/nordbad/index.html,"Leopoldstraße 50-58, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-3,Hallenbad,Die Welle - Scharnhorst,http://www.sv-derne.de,"Gleiwitzstraße 279a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-4,Hallenbad,Hörde,http://www.ssc-hoerde.de/,"Eichsfeld 5, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-5,Hallenbad,Aplerbeck,http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad_aplerbeck/index.html,"Diakon-Koch-Weg 6, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-6,Hallenbad,Eving,http://www.hallenbad-eving.de,"Württemberger Straße 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-7,Hallenbad,Hombruch,,"Deutsch-Luxemburger Straße 63, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-8,Hallenbad,Lütgendortmund,,"Volksgartenstraße 80, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-9,Hallenbad,Brackel,,"Oesterstraße 68, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-10,Hallenbad,Mengede,,"Neumarkstraße 40, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-11,Freibad,Hardenberg,,"Badweg 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-12,Freibad,Volkspark,,"Schwimmweg 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-13,Freibad,Froschloch,,"Löttringhauser Straße 103, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-14,Freibad,Stockheide,,"Brackeler Straße 100, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-15,Freibad,Wellinghofen,,"Hopmanns Mühlenweg 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-16,Freibad,Solebad Revierpark Wischlingen,https://www.wischlingen.de/,"Höfkerstraße 12, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-0,SeilgartenKlettergarten,Hochseilgarten Tree2Tree,http://www.tree2tree.de/de/hochseilgarten/hochseilgarten-dortmund.html,"Wischlinger Weg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-1,Tennis,Deusener Straße,http://www.tc-deusen.de/,"Deusener Straße 220, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-2,Tennis,Strobelallee,http://www.tennisclub-eintracht.de/,"Strobelallee 85, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-3,Tennis,Huestraße,http://www.dtc-gartenstadt.de/,"Huestraße 26, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-4,Tennis,Eckei,http://www.tennis-club-mengede.de/,"Eckei 96a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-5,StadionArena,Westhusener Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Westhusener Straße 65, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-6,StadionArena,Wischlinger Weg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Wischlinger Weg 241a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-7,StadionArena,Sendstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Sendstaße 106, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-8,StadionArena,Admiralplatz/Hopmanns Mühlenweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hopmanns Mühlenweg 7b, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-9,StadionArena,Schwerter Str./Waldstadion,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schwerter Straße 232, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-10,StadionArena,Schützenstr./Hobertsburg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schützenstraße 240, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-11,StadionArena,Mendesportanlage,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Westerholz 51, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-12,StadionArena,Plümers Ort,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Plümers Ort 6a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-13,StadionArena,Provinzialstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Provinzialstraße 305, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-14,StadionArena,Lindenhorster Str./Rolandplatz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Lindenhorster Straße 34, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-15,StadionArena,Im Rauhen Holz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Karinstraße 6, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-16,StadionArena,Kobbendelle,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Kobbendelle 16, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-17,StadionArena,Im Odemsloh,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Im Odemsloh 107, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-18,Kletteranlage,Kletterhalle Bergwerk,https://www.kletterhalle-bergwerk.de/bergwerk/deutsch/klettern-und-bouldern-in-dortmund.html,"Emscherallee 33, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-19,Eisbahn,Eishalle Revierpark Wischlingen,,"Höfkerstraße 12, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-20,Tennis,Bolmker Weg,,"Bolmker Weg 20, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-21,StadionArena,Am Schallacker,,"Am Schallacker 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-22,StadionArena,Schmetterlingsweg/Waldsportplatz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schmetterlingsweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-23,StadionArena,Holzwickeder Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Holzwickeder Straße 107, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-24,StadionArena,Hangeneystr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hangeneystraße 174, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-25,StadionArena,Gesamtschule Gartenstadt,,"Hueckstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-26,StadionArena,Evinger Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Evinger Straße 600, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-27,StadionArena,Dörwerstr./in Schulsportanlage,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Dörwerstraße 36, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-28,StadionArena,Dollersweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Dollersweg 14, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-29,StadionArena,Diedenhofener Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Diedenhofener Straße 11, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-30,StadionArena,Blumenkamp,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Blumenkamp 4, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-31,StadionArena,Deutsch-Luxemburger Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Deutsch-Luxemburger Straße 58, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-32,StadionArena,Deusener Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Deusener Straße 227, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-33,StadionArena,Buschei,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Buschei 34, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-34,StadionArena,Bärenbruch,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Bärenbruch 124, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-35,StadionArena,Bummelberg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Bummelberg 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-36,Schiessen,Bogenschießanlage,http://www.tusbarop.de,"Stockumer Straße 290, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-37,StadionArena,Am Wasserfall,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Am Wasserfall 25, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-38,StadionArena,Berghofer Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Berghofer Straße 239, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-39,StadionArena,Bezirks-/Waldsportanlage Arthur-Beringer-Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Arthur-Beringer-Straße 33, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-40,StadionArena,Auf dem Bleck,http://www.asseln-freizeitfussball.de/,"Auf dem Bleck nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-41,Skateanlage,Derne,,"Kornblumenstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-42,Skateanlage,Oespel,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Borussiastraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-43,StadionArena,Friedrich-Hölscher-Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Friedrich-Hölscher-Straße 280, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-44,Skateanlage,Kirchlinde,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Bärenbruch nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-45,Skateanlage,Dietrich-Keuning-Haus,https://www.dortmund.de/de/freizeit_und_kultur/dietrich_keuning_haus/skatepark_1/index.html,"Leopoldstraße 50-58, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-46,Skateanlage,Hombruch,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,,https://basis-datensysteme.de/museumluedo/bild2.jpg
-47,MountainbikeArena,Mountainbike-Parcour (Wickede),http://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/spielleitplanung/vorortmiteuch/starterprojekte/mountainbikestreckefrnkischerfriedhof/index.html,"Fränkischer Friedhof nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-48,MountainbikeArena,Bikepark Hombruch,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Kieferstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-49,MountainbikeArena,Bikepark Aplerbeck,http://www.bikepark-aplerbeck.de/,"Benediktinerstraße 81, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-50,Eisbahn,Eissportzentrum Westfalen,,"Strobelallee 33, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-51,SportSonstiges,SuperFly Ruhr - Jump Emscher GmbH,https://dortmund.superfly.de/trampolinhalle/,"Brennaborstraße 12, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-52,Kletteranlage,Kletterturm,http://www.dav-dortmund.de/unsere-sektion/der-kletterturm/,"Vogelpothsweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-53,Sportpark,Landesleistungszentrum des Westfälischen Turnerbundes,http://www.ktv-dortmund.de/,"Lissaboner Allee 35, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-54,Tennis,Borussiastraße,http://tcoespelkley.de/,"Borussiastraße 81, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-55,StadionArena,Lissaboner Allee,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Lissaboner Allee 31, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-56,Tennis,Tennisplatzanlage Revierpark Wischlingen,,"Höfkerstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-57,StadionArena,Im Dorney,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hedwigstraße 81, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-58,StadionArena,Oesterstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Oesterstraße 66a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-59,Tennis,Evinger Str.,,"Evinger Straße 390, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-60,StadionArena,Grävingholz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Grävingholzstraße 75, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-61,StadionArena,Stadion Rote Erde,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Sportweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-62,Fussball,SIGNAL IDUNA PARK,https://www.signal-iduna-park.de/,"Strobelallee nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-63,SportSonstiges,Jump XL,https://jump-xl.com/de/dortmund/,"Schlägelstraße 58, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-64,Kletteranlage,KletterMax,http://www.kletter-max.de/,"Strobelallee 40, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-65,Tennis,Jasminstraße,https://www.tc-soelderholz.de/,"Jasminstraße 57, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-66,Tennis,Schweizer Allee,https://www.tc-rwa.de/,"Schweizer Allee 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-67,StadionArena,Brauksweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Brauksweg 15, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-68,StadionArena,Hacheneyer Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hacheneyer Straße 88, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-69,Skateanlage,Scharnhorst,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Flughafenstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-70,StadionArena,Hockeyzentrum-Hockeyanlage,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Ardeystraße 70-72, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-71,Fussball,BVB-Trainingsgelände,,"Adi-Preißler-Allee 9, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-72,StadionArena,Werimboldstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Werimboldstraße 12a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-73,StadionArena,Husener Eichwaldstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Husener Eichwaldstraße 266, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-74,StadionArena,Waldhausweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Waldhausweg 26, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-75,StadionArena,Eckei-Volksgarten,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Eckei 96, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-76,StadionArena,Zum Hallenbad,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Zum Hallenbad 14, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-77,StadionArena,Stockumer Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Stockumer Straße 237a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-78,StadionArena,Büttnerstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Büttnerstraße 87, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-79,StadionArena,Schürener Str./oberer Platz u. unterer Platz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schürener Straße 47a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-80,StadionArena,Schumannstr./Lortzingplatz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schumannstraße 5a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-81,StadionArena,Schweizer Allee (Schulsportanlage),http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schweizer Allee 18-20, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-82,StadionArena,Spreestr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Am Zippen 17, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-83,StadionArena,Eberstr./Alemanniasportplatz,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Eberstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-84,Schiessen,Landesleistungszentrum des Westfälischen Schützenbundes,http://www.wsb1861.de/,"Eberstraße 30, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-85,Pferderennbahn,Galopprennbahn Dortmund,http://www.dortmunder-rennverein.de,"Rennweg 70, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-86,StadionArena,Hoeschpark,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Kirchderner Straße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-87,StadionArena,Am Hombruchsfeld,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Am Hombruchsfeld 71, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-88,StadionArena,Schweizer Allee,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Schweizer Allee 29a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-89,StadionArena,Haferfeldstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Haferfeldstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-90,StadionArena,Winkelriedweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Winkelriedweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-91,StadionArena,Benninghofen/Hüttenhospitalstr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hüttenhospitalstraße 5, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-92,Tennis,Grüningsweg,http://www.tc-g.de/cms2/index.php/home,"Grüningsweg 102, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-93,Tennis,Tennisanlage Technische Universität Dortmund,,"Otto-Hahn-Straße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-94,Tennis,Arthur-Beringer-Str.,http://www.huckarder-tennisclub.de/,"Arthur-Beringer-Straße 35, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-95,MountainbikeArena,Mountainbike-Strecke (Kley),https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Kleybredde nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-96,StadionArena,Kruckeler Str./Rüdinghauser Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,,https://basis-datensysteme.de/museumluedo/bild2.jpg
-97,Golf,Dortmunder Goldclub e.V.,https://www.dortmunder-golfclub.de/news.html,"Reichsmarkstraße 12, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-98,StadionArena,Derner Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Derner Straße 423a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-99,Tennis,Hellerstraße,,"Hellerstraße 115, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-100,Tennis,Rüdinghauser Straße,,"Rüdinghauser Straße 15, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-101,Tennis,Kieferstraße,,"Kieferstraße 34, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-102,StadionArena,Derner Straße,,"Derner Straße 423A, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-103,Tennis,Sanderoth,,"Sanderoth 9, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-104,MountainbikeArena,Mountainbike-Arena (Deusenberg),,"Lindberghstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-105,Sportanlage,Helmut-Körnig-Halle,,"Strobelallee 40, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-106,Golf,GolfRange GmbH,https://dortmund.golfrange.de/startseite.html,"Rennweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-107,Skateanlage,Innenstadt-West,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,,https://basis-datensysteme.de/museumluedo/bild2.jpg
-108,StadionArena,Probstheidastr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Probstheidastraße 13, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-109,StadionArena,Ramhofstraße,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Ramhofstraße 1, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-110,Tennis,Eichsfeld,https://www.hoerder-tennisclub.de/,"Eichsfeld 9, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-111,StadionArena,Idastr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Idastraße 9a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-112,Tennis,Kirchderner Straße,http://www.tg-westfalia.de/,"Kirchderner Straße 35, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-113,Skateanlage,Lütgendortmund,,"Im I. Westfeld nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-114,Golf,Golfclub Royal St. Barbara´s,http://www.royal-dortmund-gc.de/,"Saint-Barbara-Allee 18, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-115,Skateanlage,Holzen,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Kreisstraße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-116,Tennis,Rubinstraße,https://www.tcberghofen.de/,"Rubinstraße 32, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-117,StadionArena,Sportplatz Technische Universität Dortmund,,"Otto-Hahn-Straße nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-118,StadionArena,Fränkischer Friedhof,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Fränkischer Friedhof 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-119,StadionArena,Grüningsweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Grüningsweg 42, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-120,Skateanlage,Aplerbeck,https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html,"Schweizer Allee nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-121,StadionArena,Hahnenmühlenweg,http://www.bcsportfreunde06.de/,"Hahnenmühlenweg 89, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-122,StadionArena,Gretelweg,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Gretelweg 17, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-123,Tennis,Baststr.,http://www.tsc-hansa.de/,"Baststraße 10, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-124,StadionArena,Hinter Holtein,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hinter Holtein 101, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-125,Tennis,Volksgartenstraße,,"Volksgartenstraße 57, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-126,Tennis,Oberste-Wilms-Straße,http://www.tc-brackel.de/,"Oberste-Wilms-Straße 8, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-127,StadionArena,Limbecker Str./Evastr.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Limbecker Straße 70, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-128,StadionArena,Hallesche Str./Hannöversche Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Hallesche Straße 76, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-129,Tennis,Kortental,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Kortental 7, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-130,StadionArena,Lichtendorfer Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Lichtendorfer Straße 143a, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-131,StadionArena,Jasminstr./Rosengarten,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Jasminstraße 65, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-132,Radrennbahn,Radrundbahn -Niere-,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Steinklippenweg nan, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-133,Tennis,Gürtlerstraße,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Gürtlerstraße 5, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-134,StadionArena,Heinrich-Pieper-Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Heinrich-Pieper-Straße 2, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-135,StadionArena,Goystadion mit Nebenplätzen,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Am Bruchheck 47, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-136,StadionArena,Victor-Toyka-Str.,http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html,"Victor-Toyka-Straße 6, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
-137,Tennis,Johannes-Gronowski-Straße,http://www.dtkrw.de/,"Johannes-Gronowski-Straße 20, Dortmund",https://basis-datensysteme.de/museumluedo/bild2.jpg
+"Unnamed..0","Objektart","Name","Link","Address","image_url"
+0,"Heimatkundemuseum","Heimatmuseum Lütgendortmund e.V.","http://www.museum-luedo.de","Dellwiger Straße 130, Dortmund","https://basis-datensysteme.de/museumluedo/bild2.jpg"
+1,"MuseumSonstiges","Kokerei Hansa","https://www.industriedenkmal-stiftung.de/denkmale/kokerei-hansa","Emscherallee 11, Dortmund","https://www.industriedenkmal-stiftung.de/uploads/pics/Kokerei_Hansa-Ansicht_Hannappel-1.jpg"
+2,"MuseumSonstiges","Hoesch-Museum","https://www.dortmund.de/de/freizeit_und_kultur/museen/hoesch_museum/start_hoesch/index.html","Eberhardstraße 12, Dortmund","https://www.dortmund.de/media/p/museen/hoeschmuseum/hoeschmuseum_bilder/Hoeschmuseum_PanoramaGross_LG.jpg"
+3,"Heimatkundemuseum","Altes Hafenamt","http://www.dortmunder-hafen.de/freizeit/das-alte-hafenamt/","Sunderweg 130, Dortmund","https://www.dortmunder-hafen.de/fileadmin/img/img_parallax_alteshafenamt_2048x1152_16zu9.jpg?w=2048"
+4,"MuseumSonstiges","Nahverkehrsmuseum","http://bahnhof-mooskamp.de/","Mooskamp 23, Dortmund","image0-scaled.jpeg (2560×1520) (bahnhof-mooskamp.de)"
+5,"MuseumSonstiges","mondo mio! -Kindermuseum-","http://www.mondomio.de/","Florianstraße 2, Dortmund","https://www.mondomio.de/fileadmin/_processed_/6/6/csm_IMG_7473_364994d41c.jpg"
+6,"MuseumSonstiges","Fußballmuseum -Borusseum-","http://www.bvb.de/Der-BVB/Borusseum/News","Strobelallee 50, Dortmund","https://www.bvb.de/var/ezdemo_site/storage/images/media/bilder/borusseum/galeriebild-borusseum3/4014822-1-ger-DE/Galeriebild-BORUSSEUM_bvbinfobild_regular.jpg"
+7,"MuseumSonstiges","ehem. Zeche Adolf von Hansemann","https://www.ruhrgebiet-industriekultur.de/zeche-adolf-von-hansemann/","Barbarastraße 7, Dortmund","https://www.ruhrgebiet-industriekultur.de/wp-content/uploads/adolf-von-hansemann_03.jpg"
+8,"MuseumSonstiges","Museum Adlerturm","https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_adlerturm/start_adlerturm/index.html","Günter-Samtlebe-Platz 2, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramengro/museen_2/kindermuseum_adlerturm/Sandkasten_Kinder_PanoramaGross_LG.jpg"
+9,"MuseumSonstiges","Westfälisches Schulmuseum","https://www.dortmund.de/de/freizeit_und_kultur/museen/westfaelisches_schulmuseum/startseite_schulmuseum/","An der Wasserburg 1, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramengro/museen_2/schulmuseum_1/Schulstunde_PanoramaGross_LG.jpg"
+10,"Kunstmuseum","Museum für Kunst und Kulturgeschichte","https://www.dortmund.de/de/freizeit_und_kultur/museen/mkk/start_mkk/index.html","Hansastraße 3, Dortmund","https://www.dortmund.de/media/p/museen/mkk/mkk_bilder/mkk_aussen_500dpi_PanoramaGross_LG.jpg"
+11,"Technikmuseum","LWL-Industriemuseum/ Westf. Landesmuseum für Industriekultur (Zeche Zollern II/IV)","http://www.lwl.org/industriemuseum/","Grubenweg 5, Dortmund","https://www.lwl-industriekultur.de/media/filer_public_thumbnails/filer_public/36/40/36400843-4c76-4d14-a115-1be451df29f1/keyvisual_fond_headline_zollern.jpg__0x1036_q90_subsampling-2_upscale.jpg"
+12,"MuseumSonstiges","Deutsches Fußballmuseum","https://www.fussballmuseum.de/","Platz der Deutschen Einheit 1, Dortmund","https://www.fussballmuseum.de/fileadmin/_processed_/f/5/csm_dfm-familien-kinder-a1_3daa4639bb.jpg"
+13,"Technikmuseum","Tridelta Magnetmuseum","http://www.tridelta.de/unternehmensgruppe-magnetmuseum-de.html","Ostkirchstraße 177, Dortmund","https://tridelta.de/files/content/images/tridelta-gruppe.jpg"
+14,"MuseumSonstiges","Brauerei-Museum","https://www.dortmund.de/de/freizeit_und_kultur/museen/brauerei_museum/start_brauereim/index.html","Steigerstraße 16, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramengro/museen_2/Brauereimuseum_Sudhaus_PanoramaGross_LG.jpg"
+15,"MuseumSonstiges","Museum Ostwall im U","https://www.dortmund.de/de/freizeit_und_kultur/museen/museum_ostwall/start_museum_ostwall/index.html","Leonie-Reygers-Terrasse 2, Dortmund","https://www.dortmund.de/media/bilder/pool/___allgemein_pool/Dortmunder-U__PanoramaGross_LG.jpg"
+17,"MuseumSonstiges","Deutsche Arbeitsschutzausstellung (DASA)","https://www.dasa-dortmund.de/startseite/","Friedrich-Henkel-Weg 1-25, Dortmund","https://www.dasa-dortmund.de/fileadmin/_processed_/7/9/csm_DA_Schuften_in_Schichten_Eofen_2000x1000_b0b0c95eb0.jpg"
+18,"Technikmuseum","Binarium","https://binarium.de/","Hülshof 28, Dortmund","https://binarium.de/_media/tpl/img_8854.jpg"
+19,"MuseumSonstiges","Hardware MedienKunstVerein (HMKV)","http://www.hmkv.de/","Leonie-Reygers-Terrasse 2, Dortmund","https://www.hmkv.de/files/hmkv/ausstellungen/2023/Jana%20Kerima%20Stolzer%20%26%20Lex%20R%C3%BCtten%20%E2%80%93%20We%20grow%2C%20grow%20and%20grow%2C%20we%27ll%20gonna%20be%20alright%20and%20this%20is%20our%20show/KeyVisuals/GROW%20SoMe%2BBannerDigital%2BHMKV_URL%2BU_150dpi.jpg"
+20,"MuseumSonstiges","Ausbüttels Apothekenmuseum","https://www.apotheken-museum.de/home.htm","Wißstraße 11, Dortmund","https://www.apotheken-museum.de/index_htm_files/11845.jpg"
+21,"MuseumSonstiges","Historisches Sudhaus","https://www.dortmund.de/de/rathaus_und_buergerservice/buergerdienste/standesamt/ambientetrauungen/at_das_historische_hansa_sudhaus/index.html#:~:text=Das%201912%20von%20Emil%20Moog,den%201950er%20und%201960er%20Jahren.","Steigerstraße 16, Dortmund","https://www.dortmund.de/media/bilder/pool/einmalig/einmalig_events/brauerei_9507_DetailNormal_MD_LG.jpg"
+22,"MuseumSonstiges","eins eins null Polizeiausstellung","http://museen.de/ausstellung-eins-eins-null-dortmund.html","Markgrafenstraße 102, Dortmund","http://museen.de/imgbstr-ausstellung2-9915180.jpg"
+23,"Kunstmuseum","Künstlerhaus Dortmund","https://www.kh-do.de/","Sunderweg 1, Dortmund","https://www.kh-do.de/fileadmin/_processed_/e/5/csm_go40_fd7bfa3b83.jpg"
+24,"MuseumSonstiges","Industrielack-Museum","http://industrielack-museum.de/","Drehbrückenstraße 13, Dortmund","https://deutsches-industrielack-museum.de/.cm4all/uproc.php/0/Museum%20Ort/.Eingang_Museum_800.jpg/picture-2600?_=1822f94d010"
+25,"MuseumSonstiges","Mahn- und Gedenkstätte Steinwache","http://www.ns-gedenkstaetten.de/nrw/dortmund/besucherinformationen.html","Steinstraße 50, Dortmund","https://www.dortmund.de/media/bilder/pool/__projektseiten/stadtgeschichte_bilder/20_jahrhundert_bis_heute/unterm_hakenkreuz/Das_ehemalige_Gestapogefaengnis_Steinwache_Nachkriegsaufnahme.jpg"
+26,"MuseumSonstiges","Bergbaumuseum BUV-Kleinzeche Max Rehfeld e.V.","http://www.buv-kleinzeche.de/","Barbarastraße 7, Dortmund","http://www.buv-kleinzeche.de/images/BuV_3.jpg"
+27,"MuseumSonstiges","Heimatmuseum Hörde","http://www.heimatverein-hoerde.de/das-museum.html","Hörder Burgstraße 18, Dortmund","https://www.heimatverein-hoerde.de/wp-content/uploads/2021/08/2.4.jpg"
+28,"Naturkundemuseum","Museum für Naturkunde","https://www.dortmund.de/de/freizeit_und_kultur/museen/naturmuseum_dortmund/start_naturmuseum/","Münsterstraße 271, Dortmund","https://www.dortmund.de/media/p/museen/naturmuseum_dortmund/naturmuseum_dortmund_bilder/Naturmuseum_Roland_Gorecki_PanoramaGross_LG.jpg"
+29,"Besucherbergwerk","Besucherbergwerk Graf Wittekind","http://www.bergbauhistorie.ruhr/","44625 Dortmund","http://www.bergbauhistorie.ruhr/wp-content/uploads/Tielbild_Freundschaft03_vdB_2022.jpg"
+0,"Freilichtbuehne","Naturbühne Hohensyburg","https://www.naturbuehne.de/","Syburger Dorfstraße 60, Dortmund","https://i0.wp.com/naturbuehne.de/wp-content/uploads/2020/01/IMG_5465.jpg?fit=400%2C267&ssl=1"
+1,"Theater","Theater Olpketal","https://www.theater-olpketal.de/","Olpketalstraße 90, Dortmund","https://www.theater-olpketal.de/wp-content/uploads/2021/06/Theater-Olpketal-Guenna-Knust-Dortmund_00060.jpg"
+2,"Puppentheater","Nostalgisches Puppentheater im Westfalenpark","http://www.nostalgisches-puppentheater.de","Westfalenpark Dortmund, 44141 Dortmund","https://www.nostalgisches-puppentheater.de/index_htm_files/119062.jpg"
+3,"Theater","Hansa Theater Hörde","http://www.hansa-theater-hoerde.de/","Eckardtstraße 4a, Dortmund","https://www.hansa-theater-hoerde.de/wp-content/uploads/2019/06/02_premieren.jpg"
+4,"KultureinrichtungSonstiges","Kulturhaus Neuasseln e.V.","https://www.kulturhausneuasseln.org/","Buddenacker 9, Dortmund","https://www.kulturhausneuasseln.org/images/Slideshow/KulturhausNeuasselnVorneKlein.png"
+5,"KultureinrichtungSonstiges","Alte Schmiede Huckarde","http://www.ihv2000.de","Hülshof 32, Dortmund","https://www.ihv2000.de/wp-content/uploads/2023/01/Diashow-Mohr-4.jpg"
+6,"KonzertsaalHalle","Konzerthaus Dortmund","https://www.konzerthaus-dortmund.de/de/","Brückstraße 21, Dortmund","https://www.konzerthaus-dortmund.de/media/service/KHD_service_anfahrt-und-parken_verkehrshinweise_900.jpg"
+7,"Theater","Cabaret Queue","http://www.cabaretqueue.de/","Hermannstraße 74, Dortmund","https://www.cabaretqueue.de/wp-content/uploads/2017/06/mieten.jpg"
+8,"Theater","Märchenbühne im Wasserschloss Haus Rodenberg","http://www.die-maerchenbuehne.de/","Rodenbergstraße 36, Dortmund","https://image.jimcdn.com/app/cms/image/transf/dimension=1376x10000:format=jpg/path/sff8d7991af66e115/image/ifcdd8e8a78e6cc05/version/1489512997/image.jpg"
+9,"Veranstaltungshalle","Warsteiner Music Hall","https://www.warsteinermusichall.de/","Phoenixplatz 4, Dortmund","https://www.warsteinermusichall.de/wp-content/uploads/warsteiner-music-hall-welcome.jpg"
+10,"Theater","Theater Dortmund","https://www.theaterdo.de/startseite/","Theaterkarree 1-3, Dortmund","https://www.theaterdo.de/fileadmin/Fotos/Hauptbilder/21_22/16_TD_S_CHOR_0024.jpg"
+11,"KultureinrichtungSonstiges","Langer August e.V.","http://www.langer-august.de/","Braunschweiger Straße 22, Dortmund","https://www.langer-august.de/wp-content/uploads/2019/10/cms_cafe.jpg"
+12,"Spielbank","Casino Hohensyburg","","Hohensyburgstraße 200, Dortmund","https://basis-datensysteme.de/museumluedo/bild2.jpg"
+13,"Galerie","Torhaus Rombergpark Städtische Kunstgalerie","https://www.dortmund.de/de/freizeit_und_kultur/kulturbuero/kulturfoerderung/foerderung_bildende_kunst/torhausrombergpark/index.html","Am Rombergpark 65, Dortmund","https://www.dortmund.de/media/p/kulturbuero/kulturbuero_bilder/Torhausfoto_2_DetailKlein_XS_SM_MD_LG.jpg"
+14,"KultureinrichtungSonstiges","Harenberg City-Center","https://www.hcc-dortmund.de/","Königswall 21, Dortmund","https://www.hcc-dortmund.de/wp-content/uploads/hcc-lobby.jpg"
+17,"Theater","Theater im Depot","http://depotdortmund.de/","Immermannstraße 29, Dortmund","https://depotdortmund.de/images/slider/2020-04-02/Workshops_Header_12101.jpg"
+18,"Veranstaltungshalle","Reinoldinum","https://www.ev-kirche-dortmund.de/start.html","Schwanenwall 34, Dortmund","https://www.ev-kirche-dortmund.de/typo3conf/ext/uo_template_evkdo/Resources/_processed_/c/f/csm_stageslider_01_fa2cdb2b2e.jpg"
+20,"Veranstaltungshalle","Werksaal der Dortmunder Stadtwerke AG","","Deggingstraße 40, Dortmund","https://21.de/2838.cimg"
+21,"KultureinrichtungSonstiges","domicil","http://www.domicil-dortmund.de","Hansastraße 7-11, Dortmund","https://www.domicil-dortmund.de/files/images/Veranstaltungen/2023/MS012325%202.JPG"
+22,"TheaterMusikSonstiges","Pädagogisches Zentrum Hombruch","https://www.pszd.de/","Am Hombruchsfeld 55A, Dortmund","https://www.pszd.de/wp-content/uploads/2017/06/cropped-P1090285_korr_g-768x196.jpg"
+23,"Veranstaltungshalle","Berswordthalle","https://www.dortmund-app.de/sehenswuerdigkeiten/bauwerke/berswordthalle--altes-stadthaus","Kleppingstraße 37, Dortmund","https://www.dortmund-app.de/media/processed/architecture-3299746_1920.jpg"
+25,"KultureinrichtungSonstiges","Stadtteilzentrum Adlerstrasse e.V.","","Adlerstraße 81, Dortmund","https://basis-datensysteme.de/museumluedo/bild2.jpg"
+26,"Theater","Theater Fletch Bizzel","https://www.fletch-bizzel.de/","Humboldtstraße 45, Dortmund","https://www.fletch-bizzel.de/fileadmin/user_upload/Fletch_Bizzel/Programm/Headerbild/tfb_headerbild_orange.jpg"
+27,"Veranstaltungshalle","Westfalenhallen Dortmund Verwaltungsgebäude","https://www.westfalenhallen.de/neues/article/0//year/2021/month/9.html","Strobelallee  45, Dortmund","https://www.westfalenhallen.de/fileadmin/bilder/top_banner/messe_do_2019_3_960.jpg"
+28,"Veranstaltungshalle","Westfalenhallen 3B-8","https://www.westfalenhallen.de/neues/article/0//year/2021/month/9.html","Rheinlanddamm  200, Dortmund","https://www.westfalenhallen.de/fileadmin/bilder/top_banner/messe_do_2019_3_960.jpg"
+29,"Veranstaltungshalle","Westfalenhalle 1-3","https://www.westfalenhallen.de/neues/article/0//year/2021/month/9.html","Rheinlanddamm  200, Dortmund","https://www.westfalenhallen.de/fileadmin/bilder/top_banner/messe_do_2019_3_960.jpg"
+30,"KultureinrichtungSonstiges","Kulturzentrum balou e.V.","https://www.balou-dortmund.de/","Oberdorfstraße 23, Dortmund","https://www.balou-dortmund.de/wp-content/uploads/2019/06/Balou_09.09.2018_7-1-1024x768.jpg"
+31,"KultureinrichtungSonstiges","Dortmunder U - Zentrum für Kunst und Kreativität","http://www.dortmunder-u.de/","Leonie-Reygers-Terrasse 2, Dortmund","https://dortmunder-u.de/wp-content/uploads/2022/05/Dortmunder-U-Allgemein-4.jpg"
+32,"KultureinrichtungSonstiges","Musik und Kulturzentrum MUK","https://www.muk-do.de/","Güntherstraße 65, Dortmund","https://www.muk-do.de/fileadmin/_processed_/5/1/csm_MUK_heading2018_efc6820c41.jpg"
+33,"KultureinrichtungSonstiges","Freizeitzentrum West (FZW)","https://www.fzw.de/","Ritterstraße 20, Dortmund","https://fzw.de/wp-content/uploads/2022/10/poetryslam.jpg"
+34,"KultureinrichtungSonstiges","WDR Studio Dortmund","https://www1.wdr.de/unternehmen/der-wdr/standorte/studios/dortmund/index.html","Mommsenweg 5, Dortmund","https://www1.wdr.de/unternehmen/der-wdr/standorte/studios/dortmund/wdr-standorte-dortmund-100~_v-gseapremiumxl.jpg"
+35,"Theater","Roto Theater Dortmund","http://www.rototheater.de","Gneisenaustraße 30, Dortmund","http://www.rototheater.de/images/headers/start/schwein.jpg"
+0,"Hallenbad","Südbad - Innenstadt","http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/suedbad/index.html","Ruhrallee 30, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/Suedbad_31_PanoramaKlein_LG.jpg"
+1,"Hallenbad","Nordbad - Nördl. Innenstadt","http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/nordbad/index.html","Leopoldstraße 50-58, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/Nordbad_3_PanoramaKlein_LG.jpg"
+2,"Hallenbad","Die Welle - Scharnhorst","http://www.sv-derne.de","Gleiwitzstraße 279a, Dortmund","https://sv-derne.de/wp-content/uploads/2021/01/svd-hero-home.jpg"
+3,"Hallenbad","Hörde","http://www.ssc-hoerde.de/","Eichsfeld 5, Dortmund","https://www.ssc-hoerde.de/wp-content/uploads/2013/03/Schwimmbad-1-150x1501.jpg"
+4,"Hallenbad","Aplerbeck","http://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad_aplerbeck/index.html","Diakon-Koch-Weg 6, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/suedbad_PanoramaKlein.jpg"
+5,"Hallenbad","Eving","http://www.hallenbad-eving.de","Württemberger Straße 2, Dortmund","https://hallenbad-eving.de/images/Die_Schwimmhalle.jpg"
+6,"Hallenbad","Hombruch","https://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad_hombruch/index.html","Deutsch-Luxemburger Straße 63, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/hallenbad_hombruch_Collection_LG.jpg"
+7,"Hallenbad","Lütgendortmund","https://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad_luedo/index.html","Volksgartenstraße 80, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/hallenbad_luetgendortmund_Collection_LG.jpg"
+8,"Hallenbad","Brackel","https://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad_brackel/index.html","Oesterstraße 68, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/hallenbad_brackel_Collection_LG.jpg"
+9,"Hallenbad","Mengede","https://www.dortmund.de/de/leben_in_dortmund/sport/schwimmbaeder/hallenbad__mengede/index.html","Neumarkstraße 40, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/hallenbad_mengede_Collection_LG.jpg"
+10,"Freibad","Hardenberg","https://www.sportwelt-dortmund.de/freibaeder/hardenberg/","Badweg 30, Dortmund","https://www.sportwelt-dortmund.de/fileadmin/_processed_/a/d/csm_HARDENBERG_14-06-2009__DSC_3906_c89c4b4059.jpg"
+11,"Freibad","Volkspark","https://www.sportwelt-dortmund.de/freibaeder/volkspark/","Schwimmweg 2, Dortmund","https://www.sportwelt-dortmund.de/fileadmin/_processed_/7/5/csm_VOLKSBAD_13-06-2009__DSC_3765_3362f16da4.jpg"
+12,"Freibad","Froschloch","https://www.sportwelt-dortmund.de/freibaeder/froschloch/","Löttringhauser Straße 103, Dortmund","https://www.sportwelt-dortmund.de/fileadmin/_processed_/6/6/csm_FROSCHLOCH_22-07-2009__DSC_6088_0a74178603.jpg"
+13,"Freibad","Stockheide","https://www.sportwelt-dortmund.de/freibaeder/wellinghofen/","Brackeler Straße 100, Dortmund","https://www.dortmund.de/media/p/sport/hallenbaeder/hallenbder/Freibad-Stockheide_Collection_LG.jpg"
+14,"Freibad","Wellinghofen","https://www.sportwelt-dortmund.de/freibaeder/wellinghofen/","Hopmanns Mühlenweg 1, Dortmund","https://www.sportwelt-dortmund.de/fileadmin/_processed_/6/e/csm_DSCN6427_f299457232.jpg"
+15,"Freibad","Solebad Revierpark Wischlingen","https://www.wischlingen.de/","Höfkerstraße 12, Dortmund","https://www.wischlingen.de/wp-content/uploads/2022/11/headerbild_park-1500x430.jpg"
+0,"SeilgartenKlettergarten","Hochseilgarten Tree2Tree","http://www.tree2tree.de/de/hochseilgarten/hochseilgarten-dortmund.html","Wischlinger Weg nan, Dortmund","https://www.tree2tree.de/website/images/standort-dortmund-tree2tree-1.jpg"
+1,"Tennis","Deusener Straße","http://www.tc-deusen.de/","Deusener Straße 220, Dortmund","https://www.tc-deusen.de/images/pictures/6045c926/6045c928/6045c92a/p1050052.jpg?w=1023&h=683"
+2,"Tennis","Strobelallee","http://www.tennisclub-eintracht.de/","Strobelallee 85, Dortmund","http://www.tennisclub-eintracht.de/img/tennisspielerin-dortmund.jpg"
+3,"Tennis","Huestraße","http://www.dtc-gartenstadt.de/","Huestraße 26, Dortmund","https://le-cdn.website-editor.net/s/c806379bb573487da5fb80a3ee2ee94f/dms3rep/multi/opt/Halle-552487b4-527067ba-168w.JPG?Expires=1682592130&Signature=GNmab5ypFoKJNVALCzsCD-pYdcLUkdX9NxUaNi2zV1XF0DUMsc8z4ekI6vcmSr1-7DmYAkkAtUqs3YtgxcvWqP4XNLaDjtq6OsLhnOIHn8HJ9zetnB5Ld3QMI6-7A7KFNbfg7lBrnpmw-hVxf~WcL-hetq6JddQ-dGSu2mmHinvF1xpo1nQhFc7ce-woh4DDyt5dijjUCbzh4CRA5Q-rL-bKkMKrxsV~-yerUu04SV9zid05jsNs0DP52XX3vSjyHOxdAXkIyJQwQGB1M96-17-rVde0BWCRpGWeJYILI4zw4CvLkoj1jM~jrfDXWmBE~6yoTs4~EgXRYi-Au1dpaA__&Key-Pair-Id=K2NXBXLF010TJW"
+4,"Tennis","Eckei","https://www.tennisclubmengede.de/","Eckei 96a, Dortmund","https://www.tennisclubmengede.de/clubdesk/fileservlet?type=image&inline=true&id=1000136&imageFormat=_2048x2048"
+5,"StadionArena","Westhusener Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Westhusener Straße 65, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+6,"StadionArena","Wischlinger Weg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Wischlinger Weg 241a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+7,"StadionArena","Sendstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Sendstaße 106, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+8,"StadionArena","Admiralplatz/Hopmanns Mühlenweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hopmanns Mühlenweg 7b, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+9,"StadionArena","Schwerter Str./Waldstadion","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schwerter Straße 232, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+10,"StadionArena","Schützenstr./Hobertsburg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schützenstraße 240, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+11,"StadionArena","Mendesportanlage","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Westerholz 51, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+12,"StadionArena","Plümers Ort","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Plümers Ort 6a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+13,"StadionArena","Provinzialstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Provinzialstraße 305, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+14,"StadionArena","Lindenhorster Str./Rolandplatz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Lindenhorster Straße 34, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+15,"StadionArena","Im Rauhen Holz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Karinstraße 6, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+16,"StadionArena","Kobbendelle","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Kobbendelle 16, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+17,"StadionArena","Im Odemsloh","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Im Odemsloh 107, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+18,"Kletteranlage","Kletterhalle Bergwerk","https://www.kletterhalle-bergwerk.de/","Emscherallee 33, Dortmund","https://www.kletterhalle-bergwerk.de/wp-content/webp-express/webp-images/uploads/2021/10/Girl-Bouldern-1536x777.png.webp"
+19,"Eisbahn","Eishalle Revierpark Wischlingen","https://www.wischlingen.de/eishalle/","Höfkerstraße 12, Dortmund","https://www.wischlingen.de/wp-content/uploads/2022/07/Header-Eishalle.jpg"
+20,"Tennis","TC Flora","https://tcflora.tennisplatz.info/","Bolmker Weg 20, Dortmund","https://tcflora.tennisplatz.info/clubs/603/news/20230402_123625.jpg"
+21,"StadionArena","Am Schallacker","","Am Schallacker 30, Dortmund","https://basis-datensysteme.de/museumluedo/bild2.jpg"
+22,"StadionArena","Schmetterlingsweg/Waldsportplatz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schmetterlingsweg nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+23,"StadionArena","Holzwickeder Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Holzwickeder Straße 107, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+24,"StadionArena","Hangeneystr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hangeneystraße 174, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+25,"StadionArena","Evinger Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Evinger Straße 600, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+26,"StadionArena","Dörwerstr./in Schulsportanlage","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Dörwerstraße 36, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+27,"StadionArena","Dollersweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Dollersweg 14, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+28,"StadionArena","Diedenhofener Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Diedenhofener Straße 11, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+29,"StadionArena","Blumenkamp","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Blumenkamp 4, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+30,"StadionArena","Deutsch-Luxemburger Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Deutsch-Luxemburger Straße 58, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+31,"StadionArena","Deusener Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Deusener Straße 227, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+32,"StadionArena","Buschei","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Buschei 34, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+33,"StadionArena","Bärenbruch","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Bärenbruch 124, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+34,"StadionArena","Bummelberg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Bummelberg 30, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+35,"Schiessen","Bogenschießanlage","http://www.tusbarop.de","Stockumer Straße 290, Dortmund","https://tusbarop.de/image/titel.png"
+36,"StadionArena","Am Wasserfall","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Am Wasserfall 25, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+37,"StadionArena","Berghofer Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Berghofer Straße 239, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+38,"StadionArena","Bezirks-/Waldsportanlage Arthur-Beringer-Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Arthur-Beringer-Straße 33, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+39,"StadionArena","Auf dem Bleck","http://www.asseln-freizeitfussball.de/","Auf dem Bleck nan, Dortmund","http://www.asseln-freizeitfussball.de/Bild-001.jpg"
+40,"Skateanlage","Derne","","Kornblumenstraße nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+41,"Skateanlage","Oespel","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Borussiastraße nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+42,"StadionArena","Friedrich-Hölscher-Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Friedrich-Hölscher-Straße 280, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+43,"Skateanlage","Kirchlinde","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Bärenbruch nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+44,"Skateanlage","Dietrich-Keuning-Haus","https://www.dortmund.de/de/freizeit_und_kultur/dietrich_keuning_haus/skatepark_1/index.html","Leopoldstraße 50-58, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+45,"Skateanlage","Hombruch","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+46,"MountainbikeArena","Mountainbike-Parcour (Wickede)","http://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/spielleitplanung/vorortmiteuch/starterprojekte/mountainbikestreckefrnkischerfriedhof/index.html","Fränkischer Friedhof nan, Dortmund","https://www.dortmund.de/media/p/jugendamt/buerofuerkinderinteressenspielleitplanung/vorortmiteuch/startprojekt_mountainbikestrecke/1_unterstandbaujpg_DetailGross.jpg"
+47,"MountainbikeArena","Bikepark Hombruch","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Kieferstraße nan, Dortmund",""
+48,"MountainbikeArena","Bikepark Aplerbeck","http://www.bikepark-aplerbeck.de/","Benediktinerstraße 81, Dortmund","https://asc-09-dortmund.de/wp-content/uploads/2022/03/Bikepark-1.jpg"
+49,"Eisbahn","Eissportzentrum Westfalen","https://www.eissportzentrum-westfalen.de/","Strobelallee 33, Dortmund","https://www.eissportzentrum-westfalen.de/wp-content/uploads/2017/11/cropped-IMG_0503.jpg"
+50,"SportSonstiges","SuperFly Ruhr - Jump Emscher GmbH","https://dortmund.superfly.de/trampolinhalle/","Brennaborstraße 12, Dortmund","https://api.superfly.de/media/5fabc56372eba_gelb_1440.jpg"
+51,"Kletteranlage","Kletterturm","http://www.dav-dortmund.de/unsere-sektion/der-kletterturm/","Vogelpothsweg nan, Dortmund","https://www.dav-dortmund.de/wp-content/uploads/2022/09/20220830_69950-1.jpg"
+52,"Sportpark","Landesleistungszentrum des Westfälischen Turnerbundes","http://www.ktv-dortmund.de/","Lissaboner Allee 35, Dortmund","https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s2ec8fbd181337291/image/i232c75a03944db28/version/1591767046/image.jpg"
+53,"Tennis","Borussiastraße","http://tcoespelkley.de/","Borussiastraße 81, Dortmund","https://basis-datensysteme.de/museumluedo/bild2.jpg"
+54,"StadionArena","Lissaboner Allee","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Lissaboner Allee 31, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+55,"Tennis","Tennisplatzanlage Revierpark Wischlingen","","Höfkerstraße nan, Dortmund",""
+56,"StadionArena","Im Dorney","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hedwigstraße 81, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+57,"StadionArena","Oesterstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Oesterstraße 66a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+58,"Tennis","TC Grävingholz","https://www.tc-graevingholz.de/","Evinger Straße 390, Dortmund","https://static.wixstatic.com/media/f7d2c0_a20a168dce544a078b295f52439043d3~mv2.jpg/v1/fill/w_1600,h_305,al_c,q_85,enc_auto/f7d2c0_a20a168dce544a078b295f52439043d3~mv2.jpg"
+59,"StadionArena","Grävingholz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Grävingholzstraße 75, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+60,"StadionArena","Stadion Rote Erde","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Sportweg nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+61,"Fussball","SIGNAL IDUNA PARK","https://www.signal-iduna-park.de/","Strobelallee nan, Dortmund","https://www.signal-iduna-park.de/m/i/5/339d6f.jpeg"
+62,"Tennis","TC Sölderholz","https://www.tc-soelderholz.de/","Jasminstraße 57, Dortmund","https://www.tc-soelderholz.de/s/img/emotionheader.jpg?1549152793.914px.261px"
+63,"Tennis","TC Rot-Weiß Alperbeck","https://www.tc-rwa.de/","Schweizer Allee 30, Dortmund","https://www.tc-rwa.de/-_-/res/440cb9ba-0042-4265-ab15-6b0f5b6099ac/images/files/440cb9ba-0042-4265-ab15-6b0f5b6099ac/564673e4-e54b-43aa-9eed-6fef3a7fc182/480-400/1227ee8ffb8a5ef7be0fced444f85de60d5297ce"
+64,"StadionArena","Brauksweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Brauksweg 15, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+65,"StadionArena","Hacheneyer Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hacheneyer Straße 88, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+66,"Skateanlage","Scharnhorst","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Flughafenstraße nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+67,"StadionArena","Hockeyzentrum-Hockeyanlage","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Ardeystraße 70-72, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+68,"Fussball","BVB-Trainingsgelände","","Adi-Preißler-Allee 9, Dortmund","https://www.bvb.de/var/ezdemo_site/storage/images/media/bilder/galeriebilder/trainingsgelaende-anfahrt-g/2595905-1-ger-DE/Trainingsgelaende-Anfahrt-G_bvbinfobild_regular.jpg"
+69,"StadionArena","Werimboldstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Werimboldstraße 12a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+70,"StadionArena","Husener Eichwaldstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Husener Eichwaldstraße 266, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+71,"StadionArena","Waldhausweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Waldhausweg 26, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+72,"StadionArena","Eckei-Volksgarten","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Eckei 96, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+73,"StadionArena","Zum Hallenbad","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Zum Hallenbad 14, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+74,"StadionArena","Stockumer Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Stockumer Straße 237a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+75,"StadionArena","Büttnerstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Büttnerstraße 87, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+76,"StadionArena","Schürener Str./oberer Platz u. unterer Platz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schürener Straße 47a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+77,"StadionArena","Schumannstr./Lortzingplatz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schumannstraße 5a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+78,"StadionArena","Schweizer Allee (Schulsportanlage)","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schweizer Allee 18-20, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+79,"StadionArena","Spreestr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Am Zippen 17, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+80,"StadionArena","Eberstr./Alemanniasportplatz","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Eberstraße nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+81,"Schiessen","Landesleistungszentrum des Westfälischen Schützenbundes","http://www.wsb1861.de/","Eberstraße 30, Dortmund","https://www.wsb1861.de/images/News2023/230331_DST_-_Kopie.jpg"
+82,"Pferderennbahn","Galopprennbahn Dortmund","http://www.dortmunder-rennverein.de","Rennweg 70, Dortmund","https://www.dortmunder-rennverein.de/fileadmin/drv/header/header-drv-2.jpg"
+83,"StadionArena","Hoeschpark","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Kirchderner Straße nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+84,"StadionArena","Am Hombruchsfeld","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Am Hombruchsfeld 71, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+85,"StadionArena","Schweizer Allee","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Schweizer Allee 29a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+86,"StadionArena","Haferfeldstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Haferfeldstraße nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+87,"StadionArena","Winkelriedweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Winkelriedweg nan, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+88,"StadionArena","Benninghofen/Hüttenhospitalstr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hüttenhospitalstraße 5, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+89,"Tennis","Grüningsweg","http://www.tc-g.de/cms2/index.php/home","Grüningsweg 102, Dortmund","https://www.tc-g.de/cms2/images/tcg-wp/Clubhaus01-1024x341.jpg"
+90,"Tennis","Tennisanlage Technische Universität Dortmund","","Otto-Hahn-Straße nan, Dortmund",""
+91,"Tennis","Huckarder Tennis Club","http://www.huckarder-tennisclub.de/","Arthur-Beringer-Straße 35, Dortmund","https://image.jimcdn.com/app/cms/image/transf/dimension=440x1024:format=jpg/path/s75e005afedb992cc/image/ia11225bee04bcb5a/version/1552050949/image.jpg"
+92,"MountainbikeArena","Mountainbike-Strecke (Kley)","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Kleybredde nan, Dortmund","https://lh3.googleusercontent.com/p/AF1QipOVgzqYoyFdrQj_0mRC1_263plV8uc4xFs1r6mC=s680-w680-h510"
+93,"StadionArena","Kruckeler Str./Rüdinghauser Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+94,"Golf","Dortmunder Goldclub e.V.","https://dortmunder-golfclub.de/","Reichsmarkstraße 12, Dortmund","https://dortmunder-golfclub.de/wp-content/uploads/sb-instagram-feed-images/332951696_567586132094330_7559140703931219152_n.webpfull.jpg"
+95,"StadionArena","Derner Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Derner Straße 423a, Dortmund","https://www.dortmund.de/media/bilder/kopfpanoramen/kopfpanoramenklein/sport_laufen_PanoramaKlein.jpg"
+96,"Tennis","Tennis-Club Kirchhörde","https://www.tennisclubkirchhoerde.de/","Hellerstraße 115, Dortmund","https://www.tennisclubkirchhoerde.de/wp-content/uploads/slider1.jpg"
+97,"Tennis","TuS Kruckel","https://tuskruckel1910.de/tennis-2/","Rüdinghauser Straße 15, Dortmund","https://tuskruckel1910.de/wp-content/uploads/2023/02/tennis.png"
+98,"Tennis","TuS Westfalia Hombruch","https://www.westfaliahombruch.de/tennis/tennishalle/","Kieferstraße 34, Dortmund","https://image.jimcdn.com/app/cms/image/transf/dimension=710x10000:format=jpg/path/s9510e5d5284a021d/image/iad52508021ebdda4/version/1435084308/image.jpg"
+99,"StadionArena","Derner Straße","","Derner Straße 423A, Dortmund",""
+100,"Tennis","Sanderoth","","Sanderoth 9, Dortmund",""
+101,"MountainbikeArena","Mountainbike-Arena (Deusenberg)","","Lindberghstraße nan, Dortmund","https://lh3.googleusercontent.com/p/AF1QipOraEZ-gMnLjnmdFWgrwB2kQRsUp743IqwP1rbF=s680-w680-h510"
+102,"Sportanlage","Helmut-Körnig-Halle","","Strobelallee 40, Dortmund",""
+103,"Golf","GolfRange GmbH","https://dortmund.golfrange.de/startseite.html","Rennweg nan, Dortmund","https://dortmund.golfrange.de/fileadmin/_processed_/csm_gr-bodenfrost-banner_ad1cd4c086.jpg"
+104,"Skateanlage","Innenstadt-West","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+105,"StadionArena","Probstheidastr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Probstheidastraße 13, Dortmund",""
+106,"StadionArena","Ramhofstraße","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Ramhofstraße 1, Dortmund",""
+107,"Tennis","Hörder Tennis-Club","https://www.hoerder-tennisclub.de/","Eichsfeld 9, Dortmund","https://www.hoerder-tennisclub.de/index_files/stacks-image-486fa06.jpg"
+108,"StadionArena","Idastr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Idastraße 9a, Dortmund",""
+109,"Tennis","TG Westfalia","http://www.tg-westfalia.de/","Kirchderner Straße 35, Dortmund",""
+110,"Skateanlage","Lütgendortmund","","Im I. Westfeld nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+111,"Golf","Golfclub Royal St. Barbara´s","http://www.royal-dortmund-gc.de/","Saint-Barbara-Allee 18, Dortmund","https://www.royal-dortmund-gc.de/sites/default/files/styles/slideshow/public/slideshow/2019-07/slider_Green-Bahn7.jpg?itok=g2bGy9BX"
+112,"Skateanlage","Holzen","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Kreisstraße nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+113,"Tennis","TC Berghofen","https://www.tcberghofen.de/","Rubinstraße 32, Dortmund",""
+114,"StadionArena","Sportplatz Technische Universität Dortmund","","Otto-Hahn-Straße nan, Dortmund",""
+115,"StadionArena","Fränkischer Friedhof","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Fränkischer Friedhof 2, Dortmund",""
+116,"StadionArena","Grüningsweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Grüningsweg 42, Dortmund",""
+117,"Skateanlage","Aplerbeck","https://www.dortmund.de/de/leben_in_dortmund/familie_und_soziales/buero_fuer_kinderinteressen/sportanlagen_1/index.html","Schweizer Allee nan, Dortmund","https://www.dortmund.de/media/p/dietrich_keuning_haus__dkh_/dkh_1/skatepark_PanoramaKlein.jpg"
+118,"StadionArena","Hahnenmühlenweg","http://www.bcsportfreunde06.de/","Hahnenmühlenweg 89, Dortmund","http://www.bcsportfreunde06.de/s/img/emotionheader.jpg?1534767481.920px.240px"
+119,"StadionArena","Gretelweg","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Gretelweg 17, Dortmund",""
+120,"Tennis","TSC Hansa","http://www.tsc-hansa.de/","Baststraße 10, Dortmund","http://tsc-hansa.de/wp-content/uploads/2018/11/cropped-IMG_3014-2.jpg"
+121,"StadionArena","Hinter Holtein","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hinter Holtein 101, Dortmund",""
+122,"Tennis","THC Blau-Weiss","https://www.ssb-do.de/?id=4047","Volksgartenstraße 57, Dortmund",""
+123,"Tennis","Tennisclub Brackel","http://www.tc-brackel.de/","Oberste-Wilms-Straße 8, Dortmund","http://www.tc-brackel.de/images/banners/Platz1+Halle.jpg"
+124,"StadionArena","Limbecker Str./Evastr.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Limbecker Straße 70, Dortmund",""
+125,"StadionArena","Hallesche Str./Hannöversche Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Hallesche Straße 76, Dortmund",""
+126,"Tennis","Kortental","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Kortental 7, Dortmund",""
+127,"StadionArena","Lichtendorfer Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Lichtendorfer Straße 143a, Dortmund",""
+128,"StadionArena","Jasminstr./Rosengarten","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Jasminstraße 65, Dortmund",""
+129,"Radrennbahn","Radrundbahn -Niere-","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Steinklippenweg nan, Dortmund",""
+130,"Tennis","Gürtlerstraße","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Gürtlerstraße 5, Dortmund",""
+131,"StadionArena","Heinrich-Pieper-Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Heinrich-Pieper-Straße 2, Dortmund",""
+132,"StadionArena","Goystadion mit Nebenplätzen","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Am Bruchheck 47, Dortmund",""
+133,"StadionArena","Victor-Toyka-Str.","http://www.dortmund.de/de/leben_in_dortmund/sport/sportanlagen/sportanlagen.html","Victor-Toyka-Straße 6, Dortmund",""
+134,"Tennis","Johannes-Gronowski-Straße","http://www.dtkrw.de/","Johannes-Gronowski-Straße 20, Dortmund","https://dtkrw.de/wp-content/uploads/2016/08/img_3088-1000x430.jpg"

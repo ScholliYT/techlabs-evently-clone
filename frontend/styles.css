@@ -6,6 +6,10 @@
     --color3: #7293A0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     box-sizing: border-box;
     margin: 0;
