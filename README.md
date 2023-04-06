@@ -40,6 +40,8 @@ and open http://127.0.0.1:8000/api/docs
 You can see a brief overview of how to use the main functionality below
 
 ```
+Backend:
+
 def load_csv_data() in app/main.py:
 - loads data from csv file into database
 
@@ -50,24 +52,34 @@ GET event by id
 PUT event (update event information)
 DELETE event
 
+Frontend:
+
+- filtering events (skipping to categories)
+- being transferred to website when clicking on event
+- creating own events
 
 ```
 
   
 ## Roadmap and future goals
 
+What we did so far:
 - searching data
 - manipulating and cleaning data file
 - building RestAPI
 - GET/POST/PUT/DELETE functions
 - building frontend
 - connecting backend and frontend
-- create event button 
+- working create event button 
+- frontend finetuning
+- including pictures in databank
 
-
-- adding comment/chat function
+What we would do next:
+- adding comment and chat function
 - adding user profiles
-- inlcuding photos of all locations
+- options for people to connect (friend requests)
+- seperate page for every location including upcoming events/meetings
+- including other cities
 - ...
 
   
