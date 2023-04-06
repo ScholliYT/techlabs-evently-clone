@@ -79,9 +79,11 @@ What we would do next:
 - adding comment and chat function
 - adding user profiles
 - options for people to connect (friend requests)
+- matching functions: connecting to people with same event interests
 - seperate page for every location including upcoming events/meetings
 - including other cities
-- ...
+- translating page to different languages
+- creating a fancier logo
 
 ```
   
