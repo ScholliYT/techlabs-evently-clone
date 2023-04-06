@@ -201,7 +201,7 @@ p {
 
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 0.5fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 0.33fr));
     gap: 1rem;
     align-items: flex-start;
 }
@@ -250,7 +250,7 @@ p {
 .card-grid .card:first-child {
     display: none;
     -webkit-display: none;
-  }  
+}  
 
 .swimming-pool {
     margin: 1rem;
