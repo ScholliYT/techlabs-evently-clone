@@ -10,18 +10,13 @@ app = FastAPI()
 
 from config import settings
 
-#Adding image_urls to csv
-#df = pd.read_csv("C:/Users/maxwe/Documents/EventlyTechLabs/evently/better_data_file2.csv", encoding="utf-8-sig") #you'll have to include your own path
-# df["image_url"] = "https://basis-datensysteme.de/museumluedo/bild2.jpg"
-#df.to_csv("C:/Users/maxwe/Documents/EventlyTechLabs/evently/better_data_file2.csv", index=False, encoding="utf-8-sig") #same here
-
 # Create the database tables
 models.Base.metadata.create_all(bind=database.engine)
 
 # Load the data from the CSV file and store it in the database
 def load_csv_data():
     existing_event_names = []
-    with open("C:/Users/maxwe/Documents/EventlyTechLabs/evently/better_data_file2.csv", encoding="utf-8-sig") as f:
+    with open("C:/Users/maxwe/Documents/EventlyTechLabs/evently/better_data_file2.csv", encoding="utf-8-sig") as f: # Modify this line to your current directory
         reader = csv.reader(f)
         reader = csv.reader(f)
         next(reader)  # skip header row
