@@ -4,7 +4,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from app import event, database, models, schemas, crud
 import csv
-import pandas as pd
 
 app = FastAPI()
 
