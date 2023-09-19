@@ -1,5 +1,3 @@
-const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for nodejs or 8000 for fastapi
-    
             var myHeaders = new Headers();
             myHeaders.append("accept", "application/json");
     
@@ -9,7 +7,7 @@ const api = "http://127.0.0.1:8000/event/?skip=0&limit=100"  // either 3000 for 
                 redirect: 'follow'
             };
             function get_data() {
-                fetch('/event/')
+                fetch('https://techlabs-demo-evently.onrender.com/event/')
                   .then(response => response.json())
                   .then(data => {
                     data.forEach(function(item) {
